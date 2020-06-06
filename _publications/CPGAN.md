@@ -5,11 +5,8 @@ permalink: /publication/CPGAN
 excerpt: "<img src='/images/CPGAN.png' style='max-height:150px;'>"
 date: 2020-01-20
 venue: 'IEEE Transactions on Information Forensics and Security'
-paperurl: 'https://ieeexplore.ieee.org/document/8963921'
-citation: BW. Tseng and PY. Wu , “Compressive Privacy Generative Adversarial Network,” IEEE Transactions on Information Forensics and Security, vol. 15, 2499~2513, 2020
+citation: <b>BW. Tseng</b>* and PY. Wu , “Compressive Privacy Generative Adversarial Network,” IEEE Transactions on Information Forensics and Security, vol. 15, 2499~2513, 2020
 ---
-
-
 
 <img src='/images/CPGAN.png' style='max-height:300px;'>
 
