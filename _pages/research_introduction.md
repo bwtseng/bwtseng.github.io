@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-[More about privacy perserving machine learning (PPML) [PDF]](https://bwtseng.github.io/files/PPML-intro.pdf)
+[More about privacy perserving machine learning (PPML) [PDF]](https://bwtseng.github.io/files/PPML_intro.pdf)
 
 
   
