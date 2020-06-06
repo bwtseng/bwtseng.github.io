@@ -5,6 +5,9 @@ main:
 
   - title: "Research Introduction"
     url: /research_introduction/    
+
+  - title: "Work Experience"
+    url: /work_experience/    
       
   - title: "CV"
     url: /cv/
