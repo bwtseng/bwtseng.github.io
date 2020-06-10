@@ -15,4 +15,4 @@ I have worked in Andes since Mar 2020. The objective of this job is to develop m
 
 <img src='/images/mediatek.jpg' style='max-height:150px;'>
 
-I had worked in Mediatek Research Lab (MTKR) from Jan 2020 to Mar 2020. This job content is to develop a dialogue system, inclduing NLP algorithms and service platform (Node.js). Although my research background is machine learning, it is worth mentioning that I also participated the physical design (PD) code conversion project (C++), which can imply that I always keep open mind and optimistic.
+I worked in Mediatek Research Lab (MTKR) from Jan 2020 to Mar 2020. This obejective of this job is to develop the dialogue system, inclduing NLP algorithms and service platform (Node.js). Although my research background is machine learning, it is worth mentioning that I also participated the physical design (PD) code conversion project (C++), which can imply that I always keep open mind and optimistic in the industry.
